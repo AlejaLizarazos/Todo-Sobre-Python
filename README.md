@@ -1,2 +1,3 @@
 # Todo-Sobre-Python
-Este repositorio guarda todos los temas sobre python 
+Este repositorio contiene varios temas importantes de python
+
